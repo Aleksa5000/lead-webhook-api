@@ -121,4 +121,4 @@ Need a webhook integration, lead pipeline or other Python automation for your bu
 
 ## License
 
-MIT
+All rights reserved. This is a portfolio sample: you can read and run the code to evaluate my work, but you may not use it commercially, redistribute it or build on it without my written permission. See [LICENSE](LICENSE).
